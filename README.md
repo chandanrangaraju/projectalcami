@@ -3,7 +3,8 @@ Overview
 This project is a pixel-perfect, fully responsive webpage built using HTML, CSS, and JavaScript. It replicates the provided Figma design while ensuring cross-browser compatibility, optimized performance, and functional interactive elements.
 
 Live Demo
-:link: View Live on Vercel
+:link: https://projectalcami.vercel.app 
+View Live on Vercel
 
 Features
 Fully responsive design (Desktop, Tablet, and Mobile).
@@ -66,4 +67,4 @@ Clicking on FAQ questions expands or collapses the answers.
 
 Deployment
 This project is hosted on Vercel. You can view the live version at:
-[INSERT_VERSEL_LINK_HERE]
+https://projectalcami.vercel.app
