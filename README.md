@@ -67,6 +67,3 @@ Clicking on FAQ questions expands or collapses the answers.
 Deployment
 This project is hosted on Vercel. You can view the live version at:
 [INSERT_VERSEL_LINK_HERE]
-
-License
-This project is for assessment purposes only.
